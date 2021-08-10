@@ -1,2 +1,2 @@
-# Motschen.github.io
-This is just my website, leave me alone xD
+# motschen.midnightdust.eu
+Source code for my personal website
